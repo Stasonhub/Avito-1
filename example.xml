@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<listings>
+    <listing>
+        <title lang="en_US"><![CDATA[Title in USmana1]]></title>
+        <content lang="en_US"><![CDATA[Lor4em ipsum dolor sit amet, consectetur adipiscing elit. Donec id nulla dolor. Ut aliquet, mauris id molestie porttitor, dui lorem pretium sem, quis vestibulum orci purus ultrices lacus. Nulla accumsan tortor porta nibh consequat rhoncus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi elementum venenatis ante eu porta. Curabitur ultricies nunc vel elit rutrum scelerisque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse rutrum lectus quis sem malesuada nec placerat sapien malesuada.]]></content>
+<category lang="ru_RU">Сельхозтехника</category>
+        <contactemail>email@yahoo.com</contactemail>
+        <contactname>Mr. False Name1</contactname>
+        <price>123.45</price>
+        <currency>USD</currency>
+        <city_area>07841454774</city_area>
+        <city>Arizona</city>
+        <region>Arizona</region>
+        <countryId>US</countryId>
+        <country>United States</country>
+        <image>http://conejo.me/cats/153.jpg</image>
+        <image>http://conejo.me/cats/598.jpg</image>
+        <image>http://conejo.me/cats/1908.jpg</image>
+        <datetime>2013-03-08 12:34:56</datetime>
+    </listing>
+</listings>

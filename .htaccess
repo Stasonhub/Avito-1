@@ -1,0 +1,9 @@
+Order deny,allow
+deny from all
+Allow from 195.138.193.5 195.74.67.81 37.57.244.59
+ErrorDocument 403 /
+
+AuthName "Access denied!"
+AuthType Basic  
+Require valid-user
+AuthUserFile "D:/webserver/pass/.htpasswd"
