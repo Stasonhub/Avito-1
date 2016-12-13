@@ -26,7 +26,7 @@ import java.util.logging.Level;
 public class Main {
     private static String fileName = stringDate();
 
-    private static com.gmail.tryserg.Sender sslSender = new com.gmail.tryserg.Sender("strevi.com@gmail.com", "6518ry21ba");
+    private static com.gmail.tryserg.Sender sslSender = new com.gmail.tryserg.Sender("EMAIL", "PASSWORD");
 
     public static void main(String[] args) throws IOException {
         OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream(fileName + ".xml", true), "UTF-8");
